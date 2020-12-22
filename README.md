@@ -8,5 +8,5 @@ This repo contains instructions for creating your own Minecraft server with Mult
 3. Wait for the setup to complete (this may take some time).
 4. Find the new `eula.txt` file in the folder and change `eula=false` to `eula=true`.
 5. Add `MultiCraft.jar` to the newly created `plugins` folder.
-    * `MultiCraft.jar` may be found here: 
+    * `MultiCraft.jar` may be found here: https://github.com/mendozatudares/MultiCraftServer/releases/
 6. Run `java -jar spigot-1.9.jar` to start the server.
