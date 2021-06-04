@@ -7,7 +7,7 @@ This repo contains instructions for creating your own Minecraft server with Mult
 2. Open the folder in your terminal and run `java -jar BuildTools.jar --rev 1.9`
 3. Wait for the setup to complete (this may take some time).
 4. Double-click `run.bat` to generate server files.
-      Mac: run `./start.sh` in terminal
+    * Mac: run `./start.sh` in terminal
 6. Find the new `eula.txt` file in the folder and change `eula=false` to `eula=true`.
 7. Add `MultiCraft.jar` to the newly created `plugins` folder (you may need to use `run.bat` again if the folder hasn't appeared yet).
     * `MultiCraft.jar` may be found here: https://github.com/mendozatudares/MultiCraftServer/releases/
